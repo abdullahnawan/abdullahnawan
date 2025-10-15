@@ -96,10 +96,4 @@ I’m currently exploring projects that blend **real-time systems**, **ML**, and
   />
 </p>
 
-
----
-
-[![](https://visitcount.itsvg.in/api?id=abdullahnawan&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
 <!-- Using self-hosted GitHub Readme Stats: https://github-readme-stats-ten-orcin-44.vercel.app -->
