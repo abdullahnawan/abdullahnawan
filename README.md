@@ -54,16 +54,20 @@ I’m currently exploring projects that blend **real-time systems**, **ML**, and
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img 
-    src="https://github-readme-stats-ten-orcin-44.vercel.app/api?username=abdullahnawan&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=transparent&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&border_color=FFFFFF&v=5"
-    alt="GitHub Stats" height="180em" />
+    src="https://github-readme-stats-ten-orcin-44.vercel.app/api?username=abdullahnawan&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=transparent&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&border_color=FFFFFF&v=8"
+    alt="GitHub Stats"
+    style="max-width: 46%; min-width: 300px;"
+  />
   <img
-    src="https://nirzak-streak-stats.vercel.app/?user=abdullahnawan&theme=dark&hide_border=false&border=FFFFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&v=5"
-    alt="GitHub Streak" height="180em" />
-</p>
+    src="https://nirzak-streak-stats.vercel.app/?user=abdullahnawan&theme=dark&hide_border=false&background=00000000&border=FFFFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&v=8"
+    alt="GitHub Streak"
+    style="max-width: 46%; min-width: 300px;"
+  />
+</div>
 
 ---
 
