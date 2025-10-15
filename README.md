@@ -61,7 +61,7 @@ I’m currently exploring projects that blend **real-time systems**, **ML**, and
     <tr>
       <td>
         <img
-          src="https://github-readme-stats-ten-orcin-44.vercel.app/api?username=abdullahnawan&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=transparent&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&border_color=FFFFFF&v=9"
+          src="https://github-readme-stats-ten-orcin-44.vercel.app/api?username=abdullahnawan&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&border_color=FFFFFF&v=9"
           alt="GitHub Stats"
         />
       </td>
