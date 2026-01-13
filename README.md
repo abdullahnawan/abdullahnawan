@@ -2,7 +2,7 @@
 
 🎓 **Engineering Systems & Computing Student** @ *University of Guelph*  
 💡 I’m into **software engineering**, **computer vision**, and **human-computer interaction**.  
-🧠 I like building things that feel natural to use — gesture-controlled music apps, visual algorithm demos, and tools that make learning to code more accessible.
+🧠 I like building things that feel natural to use: gesture-controlled music apps, visual algorithm demos, and tools that make learning to code more accessible.
 
 I’m currently exploring projects that blend **real-time systems**, **ML**, and **cross-platform UIs**. Always happy to collaborate on open-source or cool side projects — reach out below!
 
